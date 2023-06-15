@@ -39,7 +39,7 @@ Contributions are welcome! If you'd like to contribute to CodeSense, please foll
 
 ## Issues and Feedback
 
-If you encounter any issues or have feedback, please [create an issue]() in the DevOptimize repository. We appreciate your input and will address any problems as soon as possible.
+If you encounter any issues or have feedback, please [create an issue](https://github.com/AnthonyByansi/DevOptimize/issues) in the DevOptimize repository. We appreciate your input and will address any problems as soon as possible.
 
 ## License
 
