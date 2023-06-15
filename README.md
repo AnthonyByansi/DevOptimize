@@ -21,13 +21,13 @@ DevOptimize is an AI-powered code quality plugin for Microsoft Teams and Azure D
 ### Installation
 
 1. Clone the CodeSense repository to your local development environment.
-2. Follow the installation instructions provided in the [Installation Guide](./docs/installation.md) to set up CodeSense.
+2. Follow the installation instructions provided in the [Installation Guide](./docs/installation.md) to set up DevOptimize.
 
 ### Usage
 
 1. Open Microsoft Teams and add the DevOptimize app to your workspace.
-2. Configure CodeSense by specifying the coding standards and rules you want to enforce.
-3. Integrate CodeSense with your Azure DevOps project to enable continuous code analysis.
+2. Configure DevOptimize by specifying the coding standards and rules you want to enforce.
+3. Integrate DevOptimize with your Azure DevOps project to enable continuous code analysis.
 4. Receive real-time feedback and notifications within Teams for code smells, bugs, and violations.
 5. Collaborate with your team members using DevOptimize to resolve code quality issues efficiently.
 
